@@ -14,7 +14,7 @@
 
 package yield
 
-import "github.com/CloudyKit/jet"
+import "github.com/godofdream/jet"
 
 type yieldValue struct {
 	Name    string

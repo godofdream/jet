@@ -22,10 +22,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/CloudyKit/jet"
-	"github.com/CloudyKit/jet/examples/asset_packaging/assets/templates"
-	"github.com/CloudyKit/jet/loaders/httpfs"
-	"github.com/CloudyKit/jet/loaders/multi"
+	"github.com/godofdream/jet"
+	"github.com/godofdream/jet/examples/asset_packaging/assets/templates"
+	"github.com/godofdream/jet/loaders/httpfs"
+	"github.com/godofdream/jet/loaders/multi"
 )
 
 // Initialize the set with both local files as well as the packaged

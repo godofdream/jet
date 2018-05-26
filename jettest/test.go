@@ -17,7 +17,7 @@ package jettest
 import (
 	"bytes"
 	"fmt"
-	"github.com/CloudyKit/jet"
+	"github.com/godofdream/jet"
 	"testing"
 )
 

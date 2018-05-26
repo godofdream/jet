@@ -13,13 +13,13 @@ Jet is a template engine developed to be easy to use, powerful, dynamic, yet sec
 * simple and familiar syntax
 * easy to use
 
-You can find the documentation in the [wiki](https://github.com/CloudyKit/jet/wiki).
+You can find the documentation in the [wiki](https://github.com/godofdream/jet/wiki).
 
 #### Upgrade to v2
 
-The last release of v1 was v1.2 which is available at https://github.com/CloudyKit/jet/releases/tag/v1.2 and the tag v1.2.
+The last release of v1 was v1.2 which is available at https://github.com/godofdream/jet/releases/tag/v1.2 and the tag v1.2.
 
-To upgrade to v2 a few updates to your templates are necessary – these are explained in the [upgrade guide](https://github.com/CloudyKit/jet/wiki/Upgrade-to-v2).
+To upgrade to v2 a few updates to your templates are necessary – these are explained in the [upgrade guide](https://github.com/godofdream/jet/wiki/Upgrade-to-v2).
 
 #### IntelliJ Plugin
 
@@ -29,11 +29,11 @@ GoJetPlugin + Go-lang-idea-plugin = happiness!
 
 ### Examples
 
-You can find examples in the [wiki](https://github.com/CloudyKit/jet/wiki/Jet-template-syntax).
+You can find examples in the [wiki](https://github.com/godofdream/jet/wiki/Jet-template-syntax).
 
 ### Running the example application
 
-An example application is available in the repository. Use `go get -u github.com/CloudyKit/jet` or clone the repository into `$GOPATH/github.com/CloudyKit/jet`, then do:
+An example application is available in the repository. Use `go get -u github.com/godofdream/jet` or clone the repository into `$GOPATH/github.com/godofdream/jet`, then do:
 ```
   $ cd examples/todos; go run main.go
 ```

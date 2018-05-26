@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/CloudyKit/jet"
-	"github.com/CloudyKit/jet/jettest"
+	"github.com/godofdream/jet"
+	"github.com/godofdream/jet/jettest"
 )
 
 func TestNilHTTPFileSystem(t *testing.T) {
